@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:
+project: hhmdv_padlock
 
   # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
   wokwi_id:     111111111111111111        # If using wokwi, set this to your project's ID
